@@ -1,7 +1,5 @@
 # Hey Marcos M Rod here 👋
 
-## Tech & Tools Preferences
-
 - <img src="https://img.shields.io/badge/-ffc301?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-white?style=flat&logo=angular&logoColor=red">
 - <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=ffffff"> <img src="https://img.shields.io/badge/-JEST-gree?style=flat&logo=jest&logoColor=black"> <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white">
 - <img src="https://img.shields.io/badge/-Styled-grey?style=flat&logo=styled-components"> <img src="https://img.shields.io/badge/-Mui-blue?style=flat&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -17,10 +15,6 @@
 👯 I’m looking to collaborate for open source projects.
 
 💬 Ask me about JS and Frontend.
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777) <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
----
 
 ---
 
