@@ -6,15 +6,12 @@
 - <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 - <img src="https://img.shields.io/badge/-Node-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Deno-fff?style=flat&logo=deno&logoColor=black">
 
-🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
 
 🌱 I’m currently exploring deep inside <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> & <img src="https://img.shields.io/badge/-Deno-fff?style=flat&logo=deno&logoColor=black">
 
-:books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
-
 👯 I’m looking to collaborate for open source projects.
 
-💬 Ask me about JS and Frontend.
+💬 Always open for disccusing and joking about JS or Frontend in general.
 
 ---
 
