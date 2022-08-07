@@ -9,7 +9,7 @@
 
 🌱 I’m currently exploring deep inside <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> & <img src="https://img.shields.io/badge/-Deno-fff?style=flat&logo=deno&logoColor=black">
 
-👯 I’m looking to collaborate for open source projects.
+👯 I’m looking to collaborate with open source projects.
 
 💬 Always open for disccusing and joking about JS or Frontend in general.
 
